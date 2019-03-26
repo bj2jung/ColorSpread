@@ -14,7 +14,7 @@ Load ES module:
 import ColorSpread from `colorspread`;
 ```
 
-# Example
+## Example
 
 ```
 let myColor = ColorSpread('#0022ff', '245, 255, 30', 3)
