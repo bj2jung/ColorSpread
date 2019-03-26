@@ -99,4 +99,6 @@ const ColorSpread = function(color1, color2, midpoints) {
   return createArray(color1Value, color2Value, midpoints);
 };
 
+console.log(ColorSpread("#0022ff", "245, 255, 30", 5));
+
 module.exports = ColorSpread;
