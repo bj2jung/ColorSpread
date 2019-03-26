@@ -1,8 +1,8 @@
 {
   "name": "colorspread",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Combine two colors to retrieve combinations.",
-  "main": "index.js",
+  "main": "index.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

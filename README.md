@@ -2,12 +2,6 @@ Input two colors (hex or RGB) and the required number of points between the two 
 
 ## Installation/usage
 
-In a browser:
-
-```html
-
-```
-
 Using npm:
 
 ```shell
@@ -23,5 +17,6 @@ import ColorSpread from `colorspread`;
 # Example
 
 ```
-let myColor = ColorSpread('#0022ff', '245, 255, 30', 5)   // [ '#00FF22', '#29FF21`, '#52FF21', '#7BFF20', '#A3FF1F', '#CCFF1F`, '#F5FF1E' ]
+let myColor = ColorSpread('#0022ff', '245, 255, 30', 3)
+// output: [ '#00FF22', '#3DFF21', '#7BFF20', '#B8FF1F', '#F5FF1E' ]
 ```
