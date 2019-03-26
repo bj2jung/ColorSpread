@@ -1,0 +1,23 @@
+{
+  "name": "colorspread",
+  "version": "1.0.0",
+  "description": "Combine two colors to retrieve combinations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bj2jung/ColorSpread.git"
+  },
+  "keywords": [
+    "color",
+    "combine"
+  ],
+  "author": "Brendon Jung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bj2jung/ColorSpread/issues"
+  },
+  "homepage": "https://github.com/bj2jung/ColorSpread#readme"
+}
